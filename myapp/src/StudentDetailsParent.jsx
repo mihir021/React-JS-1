@@ -5,7 +5,7 @@
 // 4> in child componet resive the obj using the propes dispal nam ebranch an duni name in H6 tag 
 
 
-import Example2 from "./Example2"
+import Example2 from './StudentDetailsChild'
 
 function Example1() {
   const data = {

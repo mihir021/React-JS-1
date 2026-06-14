@@ -3,7 +3,7 @@
 // 1> creata a product card componet to show the product detiles like title and price and rating and img 
 // 2> use a product list componet to store product data and display multiple card componets using map +  propes
 
-import T8C from './TC8';
+import T8C from './ProductListChild';
 import img1 from './assets/p1.jpeg';
 import img2 from './assets/p2.png';
 

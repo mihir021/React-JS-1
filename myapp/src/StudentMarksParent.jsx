@@ -6,7 +6,7 @@
 // 3. data : Student name, roll number , marks
 // 4. in child component display student details and incress the marks by 1 and display the new marks 
 
-import Props2 from './Props2'
+import Props2 from './StudentMarksChild'
 
 function Props1() {
   return (

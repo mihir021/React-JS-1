@@ -1,4 +1,4 @@
-import S2 from './S2'
+import S2 from './StudentTableChild'
 
 function S1() {
     const data = {

@@ -4,7 +4,7 @@
 // having array of 6 pepoles having age [70,83,38,65,49,94]
 // and display list of people who age is greater than 60 using filter method and display total count of people whose age is greater than 60 on the same page in h1 tag using props
 
-import Props1 from './T11C';
+import Props1 from './FilterPeopleChild';
 
 function T11() {
     const people = [

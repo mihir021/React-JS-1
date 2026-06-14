@@ -1,4 +1,4 @@
-import C from './C'
+import C from './ChildGreeting'
 
 function P() {
   return (

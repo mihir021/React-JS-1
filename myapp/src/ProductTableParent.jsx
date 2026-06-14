@@ -3,7 +3,7 @@
 // add a btn (addToCart) to the componet when the btn is click onclick event trigger
 // and alert shode be displayed with the msg your product is added to cart
 
-import T9C from './T9C';
+import T9C from './ProductTableChild';
 
 function T9() {
     // add more product 
