@@ -1,0 +1,3 @@
+// write a react program and task as belove create one main file (pernt file Comp.jsx)
+// and other 3 compo file ...
+// 
